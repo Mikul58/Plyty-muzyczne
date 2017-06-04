@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<ArrayOfPlyta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Plyta>
+    <spisUtworow>
+      <Utwor>
+        <spisWykonawcow>
+          <string>q</string>
+          <string>w</string>
+          <string>e</string>
+        </spisWykonawcow>
+        <NazwaUtworu>rerw</NazwaUtworu>
+        <DlugoscUtworu>2.22</DlugoscUtworu>
+        <Kompozytor>r</Kompozytor>
+        <NumerUtworu>1</NumerUtworu>
+      </Utwor>
+    </spisUtworow>
+    <TytulPlyty>tewrgrw</TytulPlyty>
+    <NumerPlyty>1</NumerPlyty>
+    <TypPlyty>DVD</TypPlyty>
+    <CzasTrwaniaPlyty>2.22</CzasTrwaniaPlyty>
+  </Plyta>
+  <Plyta>
+    <spisUtworow>
+      <Utwor>
+        <spisWykonawcow>
+          <string>q</string>
+          <string>w</string>
+        </spisWykonawcow>
+        <NazwaUtworu>csd</NazwaUtworu>
+        <DlugoscUtworu>1.22</DlugoscUtworu>
+        <Kompozytor>e</Kompozytor>
+        <NumerUtworu>1</NumerUtworu>
+      </Utwor>
+    </spisUtworow>
+    <TytulPlyty>grteg</TytulPlyty>
+    <NumerPlyty>2</NumerPlyty>
+    <TypPlyty>CD</TypPlyty>
+    <CzasTrwaniaPlyty>1.22</CzasTrwaniaPlyty>
+  </Plyta>
+  <Plyta>
+    <spisUtworow />
+    <TytulPlyty>rer</TytulPlyty>
+    <NumerPlyty>3</NumerPlyty>
+    <TypPlyty>DVD</TypPlyty>
+    <CzasTrwaniaPlyty>0</CzasTrwaniaPlyty>
+  </Plyta>
+</ArrayOfPlyta>
